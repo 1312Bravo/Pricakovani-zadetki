@@ -1,0 +1,2 @@
+# Prickovani-zadetki
+Magistrska naloga
