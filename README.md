@@ -1,2 +1,2 @@
-# Prickovani-zadetki
+# Pricakovani-zadetki
 Magistrska naloga
