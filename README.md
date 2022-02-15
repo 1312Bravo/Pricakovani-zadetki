@@ -1,2 +1,2 @@
-# Pricakovani-zadetki
+# Pričakovani zadetki
 Magistrska naloga
